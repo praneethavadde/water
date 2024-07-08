@@ -66,11 +66,11 @@
   }
   .footer {
     height: auto;
-    background-color:black;
+    background-color:lightblue;
     padding: 60px 0px 20px 0px;
   }
   .foot {
-    background-color: lightblue;
+    background-color:text-darkolivegreen;
   }
   .footer a {
     text-decoration: none;
